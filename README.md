@@ -1,7 +1,7 @@
-Small tutorial on logging, decorators and unittest
+Python logging, decorators and unittest example
 ===========================
 
-Small tutorial how to use meta programming in context of unittest on Python. Following subjects are covered:
+Small tutorial how to use meta programming in context of unit testing on Python. Following subjects are covered:
 - unit tests
 - OOP
 - logging
